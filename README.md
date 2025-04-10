@@ -3,7 +3,7 @@
 -  📍 Senai "Ítalo Bologna" - Itú/SP
 
 ## 📊 Minhas contribuições
-[![sofiaasena's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiaasena&show_icons=true&theme=material-palenight)](https://github.com/malluaguilar/github-readme-stats)
+[![sofiaasena's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiaasena&show_icons=true&theme=omni)](https://github.com/malluaguilar/github-readme-stats)
 
 
 
