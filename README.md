@@ -27,7 +27,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sofiiaseena@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/sofia.sena/)
 <br>
-  <div class="tenor-gif-embed" data-postid="1729735368080754736" data-share-method="host" data-aspect-ratio="1.24324" data-width="100%"><a href="https://tenor.com/view/cute-hello-kitty-shy-gif-1729735368080754736"></script>
+  <div class="tenor-gif-embed" data-postid="1729735368080754736" data-share-method="host" data-aspect-ratio="1.24324" data-width="100%"><a href="https://tenor.com/view/cute-hello-kitty-shy-gif-1729735368080754736"/>
 
 
 
