@@ -10,11 +10,11 @@
 -  💻 Estudante de desenvolvimento de sistemas
 -  📍 Senai "Ítalo Bologna" - Itú/SP
 
-## Contribuições
+## Contribuições:
 [![sofiaasena's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiaasena&show_icons=true&theme=omni)](https://github.com/malluaguilar/github-readme-stats)
 
 
- ## Experiência
+ ## Experiência:
 <div align="center" style="display: inline_block"><br>
 <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -27,8 +27,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sofiiaseena@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/sofia.sena/)
 <br>
-  <img href="https://tenor.com/view/cute-hello-kitty-shy-gif-1729735368080754736"/>
-
 
 
 
