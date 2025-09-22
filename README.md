@@ -26,7 +26,7 @@
 <br>
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sofiiaseena@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/sofia.sena/)
-  <img src=https://tenor.com/pt-BR/view/pink-heart-gif-13448499355678591263 />
+  <img src="https://tenor.com/pt-BR/view/coquette-gif-26415046" />
 
 
 
