@@ -25,8 +25,8 @@
 <br>
 <br>
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sofiiaseena@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/sofia.sena/)
+  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/sofiaa.sena/)
 <br>
-
+![snoopy-abrazo-love](https://github.com/user-attachments/assets/005ad1f4-5627-4785-856a-fdf2915ce1a6)
 
 
