@@ -26,8 +26,8 @@
 <br>
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sofiiaseena@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/sofia.sena/)
-  <div class="tenor-gif-embed" data-postid="26415046" data-share-method="host" data-aspect-ratio="11.43" data-width="100%"><a href="https://tenor.com/view/coquette-gif-26415046">Coquette Sticker</a>from <a href="https://tenor.com/search/coquette-stickers">Coquette Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<br>
+<div class="tenor-gif-embed" data-postid="26415046" data-share-method="host" data-aspect-ratio="11.43" data-width="100%"><a href="https://tenor.com/view/coquette-gif-26415046">Coquette Sticker</a>from <a href="https://tenor.com/search/coquette-stickers">Coquette Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
