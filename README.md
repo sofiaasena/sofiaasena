@@ -22,6 +22,7 @@
 
 ## 
 <b>Entre em contato comigo:</b>
+<br>
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:sofiiaseena@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/sofia.sena/)
 
