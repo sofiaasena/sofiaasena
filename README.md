@@ -18,9 +18,7 @@
 
 ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-<p align="center">
-  <img src="https://github.com/sofiaasena/sofiaasena/assets/00000000/72590fc7-793a-4455-b9ea-d4afa8e4be61" width="200px"/>
-</p>
+
 
 
 
